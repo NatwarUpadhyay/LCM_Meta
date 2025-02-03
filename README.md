@@ -1,7 +1,6 @@
-# LCM_Meta
-LCM(Large Concept Model) implementation with SONAR
-
 # Understanding Large Concept Models (LCM): A Technical Overview
+
+LCM(Large Concept Model) implementation with SONAR
 
 ## Introduction
 Large Concept Models (LCM) represent a significant advancement in natural language processing by operating in a semantic representation space rather than directly on tokens like traditional Large Language Models (LLMs). This documentation explains the implementation and advantages of LCMs.
